@@ -9,7 +9,7 @@ from googleapiclient.errors import HttpError
 # Set DEVELOPER_KEY to the API key value from 
 # https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
-DEVELOPER_KEY = 'AIzaSyDJvYgdBFg52GFWzGUQzL9iwC-xIIMqNDs'
+DEVELOPER_KEY = 'ReplaceME'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
