@@ -1,0 +1,4 @@
+What do you want to do (search/download/send/quit)?
+>> Enter the URLs of the videos you want to download seperated by '|' 
+>> Enter the destination (leave blank for mp3 folder)
+>> 
